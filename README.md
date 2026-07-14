@@ -1026,6 +1026,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Chinese Bus System](http://jianghao.wang/bus/index.htm)
 - [city roads](https://anvaka.github.io/city-roads/) - This website renders every single road within a city.
 - [dougmccune](http://dougmccune.com/blog/)
+- [Europe Beach Map](https://europebeachmap.com) - Interactive map of 511 European beaches with sea-water temperature, sand type and best season for each.
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
